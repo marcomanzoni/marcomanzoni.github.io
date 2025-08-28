@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile_image.png"
-  name             : "Marco Manzoni, PhD"
+  avatar           : "profile_image"
+  name             : "Marco Manzoni, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor at Politecnico di Milano"
   location         : "Milan, Italy"
