@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Marco Manzoni"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Marco Manzoni"
+  avatar           : "prof.png"
+  name             : #"Marco Manzoni"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor at Politecnico di Milano"
   location         : "Milan, Italy"
