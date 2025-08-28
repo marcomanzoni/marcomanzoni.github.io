@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile"
-  name             : "Marco Manzoni, Ph.D."
+  name             : "Marco Manzoni"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor at Politecnico di Milano"
   location         : "Milan, Italy"
