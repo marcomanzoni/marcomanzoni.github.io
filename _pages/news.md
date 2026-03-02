@@ -11,4 +11,4 @@ redirect_from:
 
 News
 ======
-- (**2 March 2026**) I’ll be in **ESA** ESTEC (Noordwijk) for the Sentinel-1D In-Orbit Commissioning Phase (IOCP) Mid Term Review (MTR).
+- **2 March 2026** - I’ll be in **ESA** ESTEC (Noordwijk) for the Sentinel-1D In-Orbit Commissioning Phase (IOCP) Mid Term Review (MTR).
