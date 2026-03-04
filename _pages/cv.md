@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Version Control Theory, GitHub Universityyyy, 2018 (expected)
 
 Publications
 ======
