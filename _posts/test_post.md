@@ -1,7 +1,7 @@
 ---
-title: Test post
-date: 2026-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: 'Test post'
+date: 2026-11-14
+permalink: /posts/test_post/
 tags:
   - cool posts
   - category1
