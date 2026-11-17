@@ -18,7 +18,6 @@ redirect_from:
 ---
 
 ## Sentinel-1D Interferometric In-Orbit Commissioning Phase
-
 **Start**: October 2025    
 **Role**: Principal Investigator  
 **Funding agency**: European Space Agency (ESA)  
@@ -27,7 +26,6 @@ redirect_from:
 ---
 
 ## HydroDrone
-
 **Start**: September 2024  
 **Role**: WP Leader
 **Funding agency**: European Space Agency (ESA)  
@@ -35,7 +33,6 @@ redirect_from:
 
 ---
 ## BIOMASS Interferometric In-Orbit Commissioning Phase
-
 **Start**: November 2023  
 **Role**: Sub-contractor
 **Funding agency**: Aresys s.r.l.  
@@ -44,7 +41,6 @@ redirect_from:
 ---
 
 ## Sentinel-1C Interferometric In-Orbit Commissioning Phase
-
 **Start**: Dicember 2021  
 **Role**: WP Leader
 **Funding agency**: European Space Agency (ESA)  
