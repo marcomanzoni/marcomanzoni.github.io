@@ -1,9 +1,9 @@
 ---
-title: “Radar Imaging"
+title: Radar Imaging
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: “Politecnico di Milano"
+venue: Politecnico di Milano
 date: 2026-01-01
 location: “Milan, Italy"
 ---
