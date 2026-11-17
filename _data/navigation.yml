@@ -12,19 +12,19 @@ main:
   #  url: /publications/
 
   #- title: "News"
-  # url: /news/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  # url: /news/   
+ 
+  - title: "Posts"
+    url: /year-archive/
     
   - title: "Projects"
     url: /projects/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
-        
-  - title: "Posts"
-    url: /year-archive/
+
+  - title: "Teaching"
+    url: /teaching/    
     
   #- title: "CV"
    # url: /cv/
