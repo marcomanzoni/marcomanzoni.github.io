@@ -26,6 +26,14 @@ redirect_from:
 
 ---
 
+### HydroDrone
+
+**Start**: September 2024  
+**Role**: WP Leader
+**Funding agency**: European Space Agency (ESA)  
+**Description of the project**: HydroDrone is an ESA-funded campaign using drone-mounted C-band SAR to investigate short-term interferometric temporal decorrelation over vegetated areas. The project supports the Hydroterra+ mission and the development of methods for soil moisture retrieval.  
+
+---
 ### BIOMASS Interferometric In-Orbit Commissioning Phase
 
 **Start**: November 2023  
