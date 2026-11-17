@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### SnowDrone
+## SnowDrone
 **Start**: November 2026  
 **Role**: WP Leader  
 **Funding agency**: European Space Agency (ESA)  
@@ -17,7 +17,7 @@ redirect_from:
 
 ---
 
-### Sentinel-1D Interferometric In-Orbit Commissioning Phase
+## Sentinel-1D Interferometric In-Orbit Commissioning Phase
 
 **Start**: October 2025    
 **Role**: Principal Investigator  
@@ -26,7 +26,7 @@ redirect_from:
 
 ---
 
-### HydroDrone
+## HydroDrone
 
 **Start**: September 2024  
 **Role**: WP Leader
@@ -34,7 +34,7 @@ redirect_from:
 **Description of the project**: HydroDrone is an ESA-funded campaign using drone-mounted C-band SAR to investigate short-term interferometric temporal decorrelation over vegetated areas. The project supports the Hydroterra+ mission and the development of methods for soil moisture retrieval.  
 
 ---
-### BIOMASS Interferometric In-Orbit Commissioning Phase
+## BIOMASS Interferometric In-Orbit Commissioning Phase
 
 **Start**: November 2023  
 **Role**: Sub-contractor
@@ -43,7 +43,7 @@ redirect_from:
 
 ---
 
-### Sentinel-1C Interferometric In-Orbit Commissioning Phase
+## Sentinel-1C Interferometric In-Orbit Commissioning Phase
 
 **Start**: Dicember 2021  
 **Role**: WP Leader
