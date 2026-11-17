@@ -9,4 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- **Test **
+## SnowDrone
+**Start**: November 2026
+**Role**: WP Leader
+**Description of the project**: Test
